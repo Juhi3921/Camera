@@ -9,17 +9,29 @@ ScreenShot:
 
 Features
 -Edit images directly in the browser
+
 -Adjust Brightness
+
 -Adjust Contrast
+
 -Apply Blur
+
 -Apply Grayscale
+
 -Rotate Hue
+
 -Invert image colors
+
 -Adjust Opacity
+
 -Adjust Saturation
+
 -Apply Sepia
+
 -Flip image horizontally
+
 -Flip image vertically
+
 -Rotate image left
 -Rotate image right
 -Preview changes instantly
